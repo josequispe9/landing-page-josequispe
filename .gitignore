@@ -1,0 +1,10 @@
+# Secrets
+.env
+.env.*
+
+# Vercel
+.vercel
+
+# System / editor
+.DS_Store
+node_modules/

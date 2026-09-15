@@ -1,0 +1,6 @@
+color_fondo=#faf3f3
+color_gris=#716b6b
+color_negro=#000000
+color_blanco=#ffffff
+tipografia=Monserrat
+tipografia_titulo='TT Ricordi Nobili'
