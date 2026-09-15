@@ -6,7 +6,8 @@ Landing page de servicios de desarrollo de software para negocios
 ## Stack
 
 Sitio estático sin build: `index.html`, `styles.css`, `main.js`.
-Se despliega en Vercel directamente desde la rama `main`.
+Se despliega en Vercel automáticamente con cada push a la rama `main`.
+URL de producción: https://landing-page-josequispe.vercel.app
 
 ## Desarrollo local
 
